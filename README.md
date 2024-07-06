@@ -4,9 +4,9 @@ Dump a PowerPoint file In its Slides , Objects and properties into a json To lat
 # still in progress ()
 
 
+![Captura de pantalla 2024-07-06 080419](https://github.com/papaitan2/.ppt-Deconstruct/assets/78953509/b565ffda-eacc-4d18-9c0e-2c1d0f1da6cb)
 
 
-![Captura de pantalla 2024-06-29 145749](https://github.com/papaitan2/.ppt-Deconstruct/assets/78953509/b7826b40-a747-47ab-8de6-17e806ab4c3e)
 
 
 ↑↑↑↑   yesterday at this stage
